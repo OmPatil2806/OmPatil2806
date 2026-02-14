@@ -61,4 +61,16 @@ Actively seeking opportunities to contribute to forward-thinking teams where tec
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Patil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/om-patil-039863369/)
+<p align="left">
+  
+<a href="https://www.linkedin.com/in/om-patil-039863369/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Om%20Patil-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:ompatil24@zohomail.in">
+  <img src="https://img.shields.io/badge/Email-ompatil24%40zohomail.in-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/__om_patil_/?hl=en" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-__om__patil__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
