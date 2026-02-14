@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist | AI & Deep Learning | Turning Complex Data into Actionable Insights</h3>
 
 <p align="center">
-MSc Artificial Intelligence & Data Science & Digital Business | Gisma University of Applied Sciences, Berlin 🇩🇪
+MSc Artificial Intelligence & Data Science & Digital Business | Gisma University of Applied Sciences, Berlin 🇩🇪.
 </p>
 
 ---
