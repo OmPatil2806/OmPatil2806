@@ -7,13 +7,13 @@ MSc Artificial Intelligence & Data Science & Digital Business | Gisma University
 
 ---
 
-🚀 Passionate about transforming complex datasets into actionable insights through advanced analytics and compelling visualizations. I specialize in building end-to-end Machine Learning pipelines, designing structured ML roadmaps, and developing scalable AI models to solve real-world challenges.
+🚀 Passionate about building intelligent systems using LLMs, Neural Networks, and Machine Learning to solve real-world problems. I specialize in developing scalable AI models, designing end-to-end ML pipelines, and extracting insights from complex large-scale datasets.
 
-With expertise in **Machine Learning, Deep Learning, Neural Networks, Transformers, Generative AI, LLMs, TensorFlow, PyTorch, Scikit-learn, and Big Data Analysis**, I enjoy exploring how data-driven systems can deliver meaningful impact across industries. From exploratory data analysis to model deployment, I focus on solutions that are both innovative and practical.
+With strong expertise in Transformers, Generative AI, Deep Learning, and Big Data Analytics, I focus on creating data-driven solutions that combine innovation, performance, and practical impact.
 
-Currently pursuing my MSc in Artificial Intelligence & Data Science, I am continuously expanding my skill set, staying at the forefront of AI advancements, and refining my ability to work with complex datasets and architectures.
+Currently pursuing my MSc in Artificial Intelligence & Data Science, I am continuously advancing my knowledge in modern AI architectures and large-scale data systems.
 
-Actively seeking opportunities to contribute to forward-thinking teams where technology meets real-world impact, and where I can push the boundaries of AI and data science innovation.
+Actively seeking opportunities to contribute to impactful AI projects in forward-thinking teams.
 
 ---
 
