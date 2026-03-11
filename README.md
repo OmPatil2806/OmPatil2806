@@ -5,6 +5,12 @@
 MSc Artificial Intelligence & Data Science & Digital Business | Gisma University of Applied Sciences, Berlin 🇩🇪.
 </p>
 
+<p align="center">
+  <a href="https://ompatil2806.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit%20My%20Website-black?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 🚀 Passionate about building intelligent systems using LLMs, Neural Networks, and Machine Learning to solve real-world problems. I specialize in developing scalable AI models, designing end-to-end ML pipelines, and extracting insights from complex large-scale datasets.
@@ -52,7 +58,7 @@ Actively seeking opportunities to contribute to impactful AI projects in forward
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmPatil2806&theme=radical)
@@ -62,7 +68,11 @@ Actively seeking opportunities to contribute to impactful AI projects in forward
 ## 🔗 Connect with Me
 
 <p align="left">
-  
+
+<a href="https://ompatil2806.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Om%20Patil-black?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
+
 <a href="https://www.linkedin.com/in/om-patil-039863369/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Om%20Patil-blue?style=for-the-badge&logo=linkedin" />
 </a>
@@ -74,3 +84,4 @@ Actively seeking opportunities to contribute to impactful AI projects in forward
 <a href="https://www.instagram.com/__om_patil_/?hl=en" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-__om__patil__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+</p>
